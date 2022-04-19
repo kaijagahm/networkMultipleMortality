@@ -1,3 +1,6 @@
+[Context]
+2022-04-19: KG forked this repo from Nitika in order to get access to the code to create networks. Later I'll write a new README that describes the code for the current project, EEB C219B network modeling.
+
 # VulturesMovementAnalysis_manuscript1
 Open code for creating social interaction networks based on long term GPS location data of vultures in Israel to help management decisions of the Israel Nature and Parks Authority under the NSF-BSF grant.
 
